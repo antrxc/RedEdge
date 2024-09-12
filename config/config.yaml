@@ -1,0 +1,8 @@
+thresholds:
+  earthquake: 5.0
+  flood: 7.0
+  storm_windspeed: 20.0
+  tornado_pressure: 950.0
+  wildfire_temperature: 45.0
+  heatwave_temperature: 40.0
+  storm_humidity: 80.0
